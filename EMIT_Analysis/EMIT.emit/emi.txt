@@ -1,0 +1,39 @@
+DLXEMIASCII
+2.600000
+
+NODE-*-RF Systems-*-Mobile_RF-*-Configurations-*-Configuration
+NODE-*-RF Systems-*-Mobile_RF-*-Radios-*-Radio-*-Band 2
+1
+NODE-*-RF Systems-*-Noise_RF-*-Configurations-*-Configuration
+NODE-*-RF Systems-*-Noise_RF-*-Radios-*-Radio-*-Band
+1,41,1
+20,0,20,0,20,0,20,21,0,21,0,21,0,21,0,21
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14000,500,14000,-32742,14000,500,14000,14000,-32742,14000,-32742,14000,-32742,14000,1504,14000
+NODE-*-RF Systems-*-Mobile_RF-*-Configurations-*-Configuration
+NODE-*-RF Systems-*-Mobile_RF-*-Radios-*-Radio-*-Band 2
+1
+NODE-*-RF Systems-*-uCell_RF-*-Configurations-*-Configuration
+NODE-*-RF Systems-*-uCell_RF-*-Radios-*-Radio-*-Band
+1,8,1
+4,0,4,0,4,0,4,4,0,4,0,4,0,4,0,4
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2879,-11104,2879,-32742,2879,-11104,2879,2880,-32742,2880,-32742,2880,-32742,2880,1205,2998
+NODE-*-RF Systems-*-uCell_RF-*-Configurations-*-Configuration
+NODE-*-RF Systems-*-uCell_RF-*-Radios-*-Radio-*-Band 2
+1
+NODE-*-RF Systems-*-Mobile_RF-*-Configurations-*-Configuration
+NODE-*-RF Systems-*-Mobile_RF-*-Radios-*-Radio-*-Band
+1,1,8
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4,0,4,0,4,0,4,4,0,4,0,4,0,4,0,4
+2879,-11157,2879,-32742,2879,-11157,2879,2880,-32742,2880,-32742,2880,-32742,2880,1205,2998
+NODE-*-RF Systems-*-uCell_RF-*-Configurations-*-Configuration
+NODE-*-RF Systems-*-uCell_RF-*-Radios-*-Radio-*-Band 2
+1
+NODE-*-RF Systems-*-Noise_RF-*-Configurations-*-Configuration
+NODE-*-RF Systems-*-Noise_RF-*-Radios-*-Radio-*-Band
+1,41,8
+4,0,4,0,4,0,4,5,0,5,0,5,0,5,0,5
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14000,500,14000,-32742,14000,500,14000,14000,-32742,14000,-32742,14000,-32742,14000,1504,14000
