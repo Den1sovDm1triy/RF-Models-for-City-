@@ -16,3 +16,7 @@ RF Models for City
 <p align="center">
   <img src="https://github.com/Den1sovDm1triy/RF-Models-for-City-/blob/main/fig_2.JPG"/>
 </p>
+
+| Model Name | Description | Version | 
+| ------------- |:-------------:|:-------------:|
+| **EMIT_Analysis** | Model in Ansys EMIT for calculation 5G antenna system in city | Ansys EMIT|
